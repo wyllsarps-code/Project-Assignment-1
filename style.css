@@ -29,7 +29,7 @@
   cursor: pointer;
   align-self: center;
 }
-#ci{
+#h1{
     color: rgb(77, 77, 224)
 }
 .nav {
@@ -47,4 +47,10 @@
 
 .nav a:hover {
   text-decoration: underline;
+}
+.hob{
+    color:rgb(30, 30, 119)
+}
+.bio{
+    color:rgb(30, 30, 119)
 }
